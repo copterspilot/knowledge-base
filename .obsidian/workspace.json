@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/6 RAW МАТЕРИАЛЫ/Базы данных/Memcached.md",
+                "file": "Courses/System Design/Материалы/_Notes.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -60,7 +60,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Memcached"
+              "title": "_Notes"
             }
           }
         ]
@@ -241,10 +241,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3026d5951f88de33",
+  "active": "507b53f478f3962b",
   "lastOpenFiles": [
-    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/6 RAW МАТЕРИАЛЫ/Базы данных/Valkey.md",
+    "Courses/System Design/Материалы/_Notes.md",
     "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/6 RAW МАТЕРИАЛЫ/Базы данных/Memcached.md",
+    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/6 RAW МАТЕРИАЛЫ/Базы данных/Valkey.md",
     "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/6 RAW МАТЕРИАЛЫ/Базы данных/_Самые востребованные базы данных в России в 2025 году.md",
     "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/6 RAW МАТЕРИАЛЫ/Базы данных/Tarantool.md",
     "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/6 RAW МАТЕРИАЛЫ/Базы данных/Redis.md",
@@ -265,17 +266,16 @@
     "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/1 КЭШИРОВАНИЕ/1.04.3 Мониторинг кэша.md",
     "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/6 RAW МАТЕРИАЛЫ/Local CDN.md",
     "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Plan/Программа курса.md",
-    "Courses/System Design/Промпты/3 Промпт Слайд презентации.md",
-    "Courses/System Design/Промпты/Promt.md",
-    "Courses/System Design/Промпты/2 Промпт Презентация по теме.md",
-    "Courses/System Design/Промпты/1 Промпт Программа курса.md",
+    "Courses/System Design/00 ПЛАНИРОВАНИЕ/Промпты/3 Промпт Слайд презентации.md",
+    "Courses/System Design/00 ПЛАНИРОВАНИЕ/Промпты/Promt.md",
+    "Courses/System Design/00 ПЛАНИРОВАНИЕ/Промпты/2 Промпт Презентация по теме.md",
+    "Courses/System Design/00 ПЛАНИРОВАНИЕ/Промпты/1 Промпт Программа курса.md",
     "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Plan/Task.md",
-    "Courses/System Design/15 Безопасность систем/__ PLAN/Программа.md",
     "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Plan",
     "Courses/System Design/15 Безопасность систем/__ PLAN",
     "Courses/System Design/00 ПЛАНИРОВАНИЕ",
-    "Courses/System Design/Промпты",
-    "Courses/System Design/Термины",
+    "Courses/System Design/00 ПЛАНИРОВАНИЕ/Промпты",
+    "Courses/System Design/Материалы",
     "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/План занятия",
     "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/7 ТЕРМИНЫ",
     "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/6 RAW МАТЕРИАЛЫ",
