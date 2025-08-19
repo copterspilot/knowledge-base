@@ -4,44 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "19639c7830a48ddc",
+        "id": "df66df3b0bf56969",
         "type": "tabs",
+        "dimension": 45.2838241570636,
         "children": [
           {
-            "id": "4089b3769511bcf0",
+            "id": "507b53f478f3962b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSharp Developer Professional/Контравариантность.md",
-                "mode": "source",
-                "source": true
+                "file": "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/6 RAW МАТЕРИАЛЫ/Базы данных/Valkey.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Контравариантность"
-            },
-            "group": "114979236cbe902a"
+              "title": "Valkey"
+            }
           }
         ]
       },
       {
-        "id": "95a798a0740ec87d",
+        "id": "47bdb1d4f1cdbf27",
         "type": "tabs",
+        "dimension": 54.71617584293641,
         "children": [
           {
-            "id": "9563d0b8f57cb58b",
+            "id": "3807fe2c05321eba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSharp Developer Professional/Контравариантность.md",
+                "file": "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/6 RAW МАТЕРИАЛЫ/Базы данных/Memcached.md",
                 "mode": "preview",
-                "source": false
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Контравариантность"
-            },
-            "group": "114979236cbe902a"
+              "title": "Memcached"
+            }
           }
         ]
       }
@@ -100,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 478.0026054382324
   },
   "right": {
     "id": "d1c7519638273a5a",
@@ -116,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSharp Developer Professional/Контравариантность.md",
+                "file": "Courses/Cloud Solution Architecture/30/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Контравариантность"
+              "title": "Backlinks for Notes"
             }
           },
           {
@@ -164,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design/Термины/Модель Герчикова.md",
+                "file": "Courses/Cloud Solution Architecture/30 Cloud Infra & Application Logging & Monitoring/Stacks/PLG-LGTM-Grafana.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Модель Герчикова"
+              "title": "Outline of PLG-LGTM-Grafana"
             }
           },
           {
@@ -186,37 +206,88 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "c5f9a7c5ab1e1a84",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 401,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "publish:Publish changes...": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "4089b3769511bcf0",
+  "active": "3807fe2c05321eba",
   "lastOpenFiles": [
+    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/6 RAW МАТЕРИАЛЫ/Базы данных/Valkey.md",
+    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/6 RAW МАТЕРИАЛЫ/Базы данных/Memcached.md",
+    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/6 RAW МАТЕРИАЛЫ/Базы данных/_Самые востребованные базы данных в России в 2025 году.md",
+    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/6 RAW МАТЕРИАЛЫ/Базы данных/Tarantool.md",
+    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/6 RAW МАТЕРИАЛЫ/Базы данных/Redis.md",
+    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/6 RAW МАТЕРИАЛЫ/Базы данных/Postgres.md",
+    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/6 RAW МАТЕРИАЛЫ/Базы данных/MongoDB.md",
+    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/6 RAW МАТЕРИАЛЫ/Базы данных/Cassandra.md",
+    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/6 RAW МАТЕРИАЛЫ/AI-ML Model Cache Updated.md",
+    "Courses/DevOps Advanced/Demo Основы безопасности в Kubernetes/k8s ChatGPT.md",
+    "Courses/MS SQL Server/Notes.md",
+    "README.md",
+    "Courses/Cloud Solution Architecture/README.md",
     "Welcome.md",
-    "CSharp Developer Professional/Контравариантность.md",
-    "MS SQL Server/Notes.md",
-    "create a link.md",
-    "CSharp Developer Professional/Notes.md",
-    "MS SQL Server",
-    "CSharp Developer Professional",
-    "System Design/Термины/Модель Герчикова.md",
-    "System Design/Термины/Мотивация.md",
-    "System Design/Термины/Требования.md",
-    "System Design/Термины",
-    "System Design"
+    "Untitled.md",
+    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/6 RAW МАТЕРИАЛЫ/AI-ML Model Cache.md",
+    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/6 RAW МАТЕРИАЛЫ/Базы данных",
+    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/1 КЭШИРОВАНИЕ/1.04.4 Масштабирование.md",
+    "Courses/System Design/13 Выбор и проектирование баз данных",
+    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/1 КЭШИРОВАНИЕ/1.04.3 Мониторинг кэша.md",
+    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/6 RAW МАТЕРИАЛЫ/Local CDN.md",
+    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Plan/Программа курса.md",
+    "Courses/System Design/Промпты/3 Промпт Слайд презентации.md",
+    "Courses/System Design/Промпты/Promt.md",
+    "Courses/System Design/Промпты/2 Промпт Презентация по теме.md",
+    "Courses/System Design/Промпты/1 Промпт Программа курса.md",
+    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Plan/Task.md",
+    "Courses/System Design/15 Безопасность систем/__ PLAN/Программа.md",
+    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Plan",
+    "Courses/System Design/15 Безопасность систем/__ PLAN",
+    "Courses/System Design/__ ПЛАНИРОВАНИЕ",
+    "Courses/System Design/Промпты",
+    "Courses/System Design/Термины",
+    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/План занятия",
+    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/7 ТЕРМИНЫ",
+    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Presentation_/6 RAW МАТЕРИАЛЫ",
+    "Courses/System Design/~assets~/Redis-Car.png",
+    "Courses/Cloud Solution Architecture/~assets~/pics/What_is_TICK_Stack.png",
+    "Courses/Cloud Solution Architecture/~assets~/pics/TICK_Stack_Scheme.png",
+    "Courses/Cloud Solution Architecture/~assets~/pics/OpenTelemetry_Collection.png",
+    "Courses/Cloud Solution Architecture/~assets~/pics/Infrastructure-Vs-Data-Vs-ML-Observability.jpg",
+    "Courses/Cloud Solution Architecture/~assets~/pics/ELS_Stack_Scheme.png",
+    "Courses/Cloud Solution Architecture/~assets~/pics/ELK_Stack.png",
+    "Courses/Cloud Solution Architecture/~assets~/pics/books/Crossing_the_Chasm.png",
+    "~assets~/ChatGPT_StudyMode.png",
+    "Courses/Cloud Solution Architecture/~assets~/pics/aws/FoundationalCapabilities.png"
   ]
 }

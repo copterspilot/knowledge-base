@@ -1,4 +1,10 @@
 {
   "readableLineLength": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "attachmentFolderPath": "~assets~",
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "livePreview": false
 }
