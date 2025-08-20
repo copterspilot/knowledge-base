@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "df66df3b0bf56969",
+        "id": "d1a6d50439db1a79",
         "type": "tabs",
-        "dimension": 45.2838241570636,
+        "dimension": 41.78556869139829,
         "children": [
           {
-            "id": "507b53f478f3962b",
+            "id": "f1b15719cbc67e58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/Домашнее задание.md",
+                "file": "Courses/System Design/15 Безопасность систем/3 КРИПТОГРАФИЯ/3.01.4 Алгоритмы хэширования.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -29,24 +29,24 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Домашнее задание"
+              "title": "3.01.4 Алгоритмы хэширования"
             }
           }
         ]
       },
       {
-        "id": "47bdb1d4f1cdbf27",
+        "id": "041a080a64cfcc31",
         "type": "tabs",
-        "dimension": 54.71617584293641,
+        "dimension": 58.21443130860171,
         "children": [
           {
-            "id": "3807fe2c05321eba",
+            "id": "22d1e9e7b6ec8388",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/System Design/Материалы/_Notes.md",
-                "mode": "preview",
+                "file": "Courses/System Design/15 Безопасность систем/ПРОГРАММА.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -60,7 +60,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_Notes"
+              "title": "ПРОГРАММА"
             }
           }
         ]
@@ -120,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 478.0026054382324
+    "width": 600.0026054382324
   },
   "right": {
     "id": "d1c7519638273a5a",
@@ -241,44 +241,44 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "507b53f478f3962b",
+  "active": "f1b15719cbc67e58",
   "lastOpenFiles": [
-    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Plan/RAW/Qwen.md",
-    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Plan/RAW/DeepSeek.md",
-    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Plan/RAW/ChatGPT.md",
-    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Plan/Task.md",
-    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Plan/План занятия.md",
-    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/6 RAW МАТЕРИАЛЫ/Базы данных/Valkey.md",
-    "Courses/System Design/Материалы/_Notes.md",
-    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/6 RAW МАТЕРИАЛЫ/Базы данных/Memcached.md",
-    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/6 RAW МАТЕРИАЛЫ/Базы данных/_Самые востребованные базы данных в России в 2025 году.md",
-    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/6 RAW МАТЕРИАЛЫ/Базы данных/Tarantool.md",
-    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/6 RAW МАТЕРИАЛЫ/Базы данных/Redis.md",
-    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/6 RAW МАТЕРИАЛЫ/Базы данных/Postgres.md",
-    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/6 RAW МАТЕРИАЛЫ/Базы данных/MongoDB.md",
-    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/6 RAW МАТЕРИАЛЫ/Базы данных/Cassandra.md",
-    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/6 RAW МАТЕРИАЛЫ/AI-ML Model Cache Updated.md",
-    "Courses/DevOps Advanced/Demo Основы безопасности в Kubernetes/k8s ChatGPT.md",
-    "Courses/MS SQL Server/Notes.md",
-    "README.md",
-    "Courses/Cloud Solution Architecture/README.md",
-    "Welcome.md",
-    "Untitled.md",
-    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/6 RAW МАТЕРИАЛЫ/AI-ML Model Cache.md",
+    "Courses/System Design/15 Безопасность систем/3 КРИПТОГРАФИЯ/3.01.2 Алгоритмы симметричного шифрования.md",
+    "Courses/System Design/15 Безопасность систем/3 КРИПТОГРАФИЯ/3.01.4 Алгоритмы хэширования.md",
+    "Courses/System Design/15 Безопасность систем/3 КРИПТОГРАФИЯ/3.01.3 Алгоритмы асимметричного шифрования.md",
+    "Courses/System Design/15 Безопасность систем/3 КРИПТОГРАФИЯ/3.01.1 Гибридное шифрование.md",
+    "Courses/System Design/15 Безопасность систем/5 ДОПОЛНИТЕЛЬНО/5.09 Подготовка к интервью.md",
+    "Courses/System Design/15 Безопасность систем/5 ДОПОЛНИТЕЛЬНО/5.08 Security в System Design.md",
+    "Courses/System Design/15 Безопасность систем/ПРОГРАММА.md",
+    "Courses/System Design/15 Безопасность систем/5 ДОПОЛНИТЕЛЬНО/5.07 Федерация удостоверений.md",
+    "Courses/System Design/15 Безопасность систем/5 ДОПОЛНИТЕЛЬНО/5.06 Мультитенантность - безопасность и изоляция.md",
+    "Courses/System Design/15 Безопасность систем/5 ДОПОЛНИТЕЛЬНО/5.05 Практические кейсы и антипаттерны в российских системах.md",
+    "Courses/System Design/15 Безопасность систем/5 ДОПОЛНИТЕЛЬНО/5.04 Сценарии атак и защиты.md",
+    "Courses/System Design/15 Безопасность систем/5 ДОПОЛНИТЕЛЬНО/5.03 Динамика угроз 2025.md",
+    "Courses/System Design/15 Безопасность систем/5 ДОПОЛНИТЕЛЬНО/5.02 Workflow инцидента.md",
+    "Courses/System Design/15 Безопасность систем/5 ДОПОЛНИТЕЛЬНО/5.01 SIEM и SOAR автоматизация безопасности.md",
+    "Courses/System Design/15 Безопасность систем/5 ДОПОЛНИТЕЛЬНО",
+    "Courses/System Design/15 Безопасность систем/4 РЕАЛИЗАЦИИ/4.05 Compliance и регуляторные требования в РФ.md",
+    "Courses/System Design/15 Безопасность систем/4 РЕАЛИЗАЦИИ/4.04 Мониторинг и incident response.md",
+    "Courses/System Design/15 Безопасность систем/4 РЕАЛИЗАЦИИ/4.03 Security by Design.md",
+    "Courses/System Design/15 Безопасность систем/4 РЕАЛИЗАЦИИ/4.02 Zero Trust Architecture.md",
+    "Courses/System Design/15 Безопасность систем/2 УПРАЛЕНИЕ ДОСТУПОМ/2.06 Модели доступа.md",
+    "Courses/System Design/15 Безопасность систем/4 РЕАЛИЗАЦИИ/4.01 Public Key Infrastructure (PKI).md",
+    "Courses/System Design/15 Безопасность систем/4 РЕАЛИЗАЦИИ",
+    "Courses/System Design/15 Безопасность систем/1 ВВЕДЕНИЕ/1.02.1 Определение безопасности.md",
+    "Courses/System Design/15 Безопасность систем/1 ВВЕДЕНИЕ/1.02 Введение в безопасность информационных систем +.md",
+    "Courses/System Design/15 Безопасность систем/1 ВВЕДЕНИЕ/1.01 Ключевые термины и принципы безопасности.md",
+    "Courses/System Design/15 Безопасность систем/1 ВВЕДЕНИЕ/1.01.1 Термины ИБ.md",
+    "Courses/System Design/15 Безопасность систем/1 ВВЕДЕНИЕ/1.02 Введение в безопасность информационных систем.md",
+    "Courses/System Design/15 Безопасность систем/2 УПРАЛЕНИЕ ДОСТУПОМ/2.05 CORS.md",
+    "Courses/System Design/15 Безопасность систем/2 УПРАЛЕНИЕ ДОСТУПОМ",
+    "Courses/System Design/15 Безопасность систем/3 КРИПТОГРАФИЯ",
+    "Courses/System Design/15 Безопасность систем/1 ВВЕДЕНИЕ",
+    "Courses/System Design/15 Безопасность систем/КВИЗ",
     "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/6 RAW МАТЕРИАЛЫ/Базы данных",
-    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/1 КЭШИРОВАНИЕ/1.04.4 Масштабирование.md",
     "Courses/System Design/13 Выбор и проектирование баз данных",
-    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/1 КЭШИРОВАНИЕ/1.04.3 Мониторинг кэша.md",
-    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/6 RAW МАТЕРИАЛЫ/Local CDN.md",
-    "Courses/System Design/00 ПЛАНИРОВАНИЕ/Промпты/3 Промпт Слайд презентации.md",
     "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Plan",
-    "Courses/System Design/15 Безопасность систем/__ PLAN",
-    "Courses/System Design/00 ПЛАНИРОВАНИЕ",
-    "Courses/System Design/00 ПЛАНИРОВАНИЕ/Промпты",
-    "Courses/System Design/Материалы",
-    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Plan/RAW",
-    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/7 ТЕРМИНЫ",
-    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/6 RAW МАТЕРИАЛЫ",
+    "Courses/System Design/15 Безопасность систем/PLAN",
     "Courses/System Design/~assets~/Redis-Car.png",
     "Courses/Cloud Solution Architecture/~assets~/pics/What_is_TICK_Stack.png",
     "Courses/Cloud Solution Architecture/~assets~/pics/TICK_Stack_Scheme.png",
