@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/System Design/16 Управление доступом и секретами (ДЗ)/0 ПЛАН/0.00.1 Тема - содержание.md",
+                "file": "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 Домашнее задание/4.03 Threat Modeling (моделирование угроз).md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0.00.1 Тема - содержание"
+              "title": "4.03 Threat Modeling (моделирование угроз)"
             }
           }
         ]
@@ -240,13 +240,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3026d5951f88de33",
+  "active": "f10374bdebb74f90",
   "lastOpenFiles": [
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 Домашнее задание/4.03 Threat Modeling (моделирование угроз).md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/0 ПЛАН/0.00.1 Тема - содержание.md",
+    "Courses/DevOps Advanced/19 Диагностика и отладка кластера и приложений в нем/0 ПЛАН/Task.md",
     "Courses/DevOps Advanced/19 Диагностика и отладка кластера и приложений в нем/0 ПЛАН",
     "Расписание.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 Домашнее задание/4.03 Threat Modeling (моделирование угроз).md",
     "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 Домашнее задание/4.04 Заключение.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/0 ПЛАН/0.00.1 Тема - содержание.md",
     "Courses/System Design/16 Управление доступом и секретами (ДЗ)/X Материалы/Service Mesh (Istio) для mTLS.md",
     "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 Домашнее задание/4.02 Рекомендации по выполнению.md",
     "Courses/System Design/16 Управление доступом и секретами (ДЗ)/X Материалы/_ Рекомендации _.md",
@@ -277,7 +278,6 @@
     "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.02 Управление доступом и соблюдения политик",
     "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.04 Методы шифрования",
     "Courses/System Design/16 Управление доступом и секретами (ДЗ)/2 Управления ролями и доступами",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.01 Аутентификация, авторизация и аудит/Schemes",
     "Courses/System Design/~assets~/Redis-Car.png",
     "Courses/System Design/~assets~/Aspire-Keycloak.png",
     "~assets~/1755754053311.jpg",
