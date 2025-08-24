@@ -1,10 +1,10 @@
 [
   "obsidian-plantuml",
   "obsidian-style-settings",
-  "obsidian-tasks-plugin",
   "obsidian-kanban",
   "obsidian-icon-folder",
   "obsidian-git",
   "table-editor-obsidian",
-  "obsidian-advanced-slides"
+  "obsidian-advanced-slides",
+  "mermaid-tools"
 ]

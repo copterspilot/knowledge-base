@@ -4,48 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d1a6d50439db1a79",
+        "id": "0995446944ed7691",
         "type": "tabs",
-        "dimension": 41.78556869139829,
         "children": [
           {
-            "id": "f1b15719cbc67e58",
+            "id": "0da71dcf2564a4bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/System Design/15 Безопасность систем/3 КРИПТОГРАФИЯ/3.01.4 Алгоритмы хэширования.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "3.01.4 Алгоритмы хэширования"
-            }
-          }
-        ]
-      },
-      {
-        "id": "041a080a64cfcc31",
-        "type": "tabs",
-        "dimension": 58.21443130860171,
-        "children": [
-          {
-            "id": "22d1e9e7b6ec8388",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/System Design/15 Безопасность систем/ПРОГРАММА.md",
+                "file": "Courses/System Design/16 Управление доступом и секретами (ДЗ)/0 ПЛАН/0.00.1 Тема - содержание.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -60,7 +28,37 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ПРОГРАММА"
+              "title": "0.00.1 Тема - содержание"
+            }
+          }
+        ]
+      },
+      {
+        "id": "320bb0104552d2b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f10374bdebb74f90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/DevOps Advanced/19 Диагностика и отладка кластера и приложений в нем/0 ПЛАН/Task.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Task"
             }
           }
         ]
@@ -120,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 600.0026054382324
+    "width": 439.0086555480957
   },
   "right": {
     "id": "d1c7519638273a5a",
@@ -238,56 +236,57 @@
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f1b15719cbc67e58",
+  "active": "3026d5951f88de33",
   "lastOpenFiles": [
-    "Courses/System Design/15 Безопасность систем/3 КРИПТОГРАФИЯ/3.01.2 Алгоритмы симметричного шифрования.md",
-    "Courses/System Design/15 Безопасность систем/3 КРИПТОГРАФИЯ/3.01.4 Алгоритмы хэширования.md",
-    "Courses/System Design/15 Безопасность систем/3 КРИПТОГРАФИЯ/3.01.3 Алгоритмы асимметричного шифрования.md",
-    "Courses/System Design/15 Безопасность систем/3 КРИПТОГРАФИЯ/3.01.1 Гибридное шифрование.md",
-    "Courses/System Design/15 Безопасность систем/5 ДОПОЛНИТЕЛЬНО/5.09 Подготовка к интервью.md",
-    "Courses/System Design/15 Безопасность систем/5 ДОПОЛНИТЕЛЬНО/5.08 Security в System Design.md",
-    "Courses/System Design/15 Безопасность систем/ПРОГРАММА.md",
-    "Courses/System Design/15 Безопасность систем/5 ДОПОЛНИТЕЛЬНО/5.07 Федерация удостоверений.md",
-    "Courses/System Design/15 Безопасность систем/5 ДОПОЛНИТЕЛЬНО/5.06 Мультитенантность - безопасность и изоляция.md",
-    "Courses/System Design/15 Безопасность систем/5 ДОПОЛНИТЕЛЬНО/5.05 Практические кейсы и антипаттерны в российских системах.md",
-    "Courses/System Design/15 Безопасность систем/5 ДОПОЛНИТЕЛЬНО/5.04 Сценарии атак и защиты.md",
-    "Courses/System Design/15 Безопасность систем/5 ДОПОЛНИТЕЛЬНО/5.03 Динамика угроз 2025.md",
-    "Courses/System Design/15 Безопасность систем/5 ДОПОЛНИТЕЛЬНО/5.02 Workflow инцидента.md",
-    "Courses/System Design/15 Безопасность систем/5 ДОПОЛНИТЕЛЬНО/5.01 SIEM и SOAR автоматизация безопасности.md",
-    "Courses/System Design/15 Безопасность систем/5 ДОПОЛНИТЕЛЬНО",
-    "Courses/System Design/15 Безопасность систем/4 РЕАЛИЗАЦИИ/4.05 Compliance и регуляторные требования в РФ.md",
-    "Courses/System Design/15 Безопасность систем/4 РЕАЛИЗАЦИИ/4.04 Мониторинг и incident response.md",
-    "Courses/System Design/15 Безопасность систем/4 РЕАЛИЗАЦИИ/4.03 Security by Design.md",
-    "Courses/System Design/15 Безопасность систем/4 РЕАЛИЗАЦИИ/4.02 Zero Trust Architecture.md",
-    "Courses/System Design/15 Безопасность систем/2 УПРАЛЕНИЕ ДОСТУПОМ/2.06 Модели доступа.md",
-    "Courses/System Design/15 Безопасность систем/4 РЕАЛИЗАЦИИ/4.01 Public Key Infrastructure (PKI).md",
-    "Courses/System Design/15 Безопасность систем/4 РЕАЛИЗАЦИИ",
-    "Courses/System Design/15 Безопасность систем/1 ВВЕДЕНИЕ/1.02.1 Определение безопасности.md",
-    "Courses/System Design/15 Безопасность систем/1 ВВЕДЕНИЕ/1.02 Введение в безопасность информационных систем +.md",
-    "Courses/System Design/15 Безопасность систем/1 ВВЕДЕНИЕ/1.01 Ключевые термины и принципы безопасности.md",
-    "Courses/System Design/15 Безопасность систем/1 ВВЕДЕНИЕ/1.01.1 Термины ИБ.md",
-    "Courses/System Design/15 Безопасность систем/1 ВВЕДЕНИЕ/1.02 Введение в безопасность информационных систем.md",
-    "Courses/System Design/15 Безопасность систем/2 УПРАЛЕНИЕ ДОСТУПОМ/2.05 CORS.md",
-    "Courses/System Design/15 Безопасность систем/2 УПРАЛЕНИЕ ДОСТУПОМ",
-    "Courses/System Design/15 Безопасность систем/3 КРИПТОГРАФИЯ",
-    "Courses/System Design/15 Безопасность систем/1 ВВЕДЕНИЕ",
-    "Courses/System Design/15 Безопасность систем/КВИЗ",
-    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/6 RAW МАТЕРИАЛЫ/Базы данных",
-    "Courses/System Design/13 Выбор и проектирование баз данных",
-    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/_Plan",
-    "Courses/System Design/15 Безопасность систем/PLAN",
+    "Courses/DevOps Advanced/19 Диагностика и отладка кластера и приложений в нем/0 ПЛАН",
+    "Расписание.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 Домашнее задание/4.03 Threat Modeling (моделирование угроз).md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 Домашнее задание/4.04 Заключение.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/0 ПЛАН/0.00.1 Тема - содержание.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/X Материалы/Service Mesh (Istio) для mTLS.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 Домашнее задание/4.02 Рекомендации по выполнению.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/X Материалы/_ Рекомендации _.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 Домашнее задание/Наброски реализации/3 Hashicorp Vault с Aspire.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 Домашнее задание/Наброски реализации/2 Hashicorp Vault примеры.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 Домашнее задание/Наброски реализации/1.3 Схема хранения и ротации секретов.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 Домашнее задание/Наброски реализации/1.2 Схема процессов аутентификации и авторизации.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 Домашнее задание/Наброски реализации/1.1 Схема архитектуры управления доступами с RBAC ABAC.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 Домашнее задание/Наброски реализации/1 Схемы.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 Домашнее задание/4.01 Домашнее задание.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 Домашнее задание",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/0 ПЛАН/0.00 Тема 15+16.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.07 Аудит/1.07.2 Аудит ИБ.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.07 Аудит/1.07.1 Роль OpenTelemetry.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.07 Аудит",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/0 ПЛАН/0.01 План занятия.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/X Материалы/Scalar Open API Client.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 Хранение и управление секретами/3.09 Vault Identity-Based Access.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 Хранение и управление секретами/3.06 Vault workflows.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 Хранение и управление секретами/3.08 Vault Data Encryption.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 Хранение и управление секретами/3.07 Проблема разрастания секретов.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 Хранение и управление секретами/3.00 Сравнение Vaults.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 Хранение и управление секретами/3.05 Основные принципы работы.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 Домашнее задание/Наброски реализации",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.05 Принципы работы TLS(SSL)",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.03 Шифрование и хэширование",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 Хранение и управление секретами",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.02 Управление доступом и соблюдения политик",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.04 Методы шифрования",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/2 Управления ролями и доступами",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.01 Аутентификация, авторизация и аудит/Schemes",
     "Courses/System Design/~assets~/Redis-Car.png",
+    "Courses/System Design/~assets~/Aspire-Keycloak.png",
+    "~assets~/1755754053311.jpg",
     "Courses/Cloud Solution Architecture/~assets~/pics/What_is_TICK_Stack.png",
     "Courses/Cloud Solution Architecture/~assets~/pics/TICK_Stack_Scheme.png",
     "Courses/Cloud Solution Architecture/~assets~/pics/OpenTelemetry_Collection.png",
     "Courses/Cloud Solution Architecture/~assets~/pics/Infrastructure-Vs-Data-Vs-ML-Observability.jpg",
     "Courses/Cloud Solution Architecture/~assets~/pics/ELS_Stack_Scheme.png",
     "Courses/Cloud Solution Architecture/~assets~/pics/ELK_Stack.png",
-    "Courses/Cloud Solution Architecture/~assets~/pics/books/Crossing_the_Chasm.png",
-    "~assets~/ChatGPT_StudyMode.png",
-    "Courses/Cloud Solution Architecture/~assets~/pics/aws/FoundationalCapabilities.png"
+    "Courses/Cloud Solution Architecture/~assets~/pics/books/Crossing_the_Chasm.png"
   ]
 }

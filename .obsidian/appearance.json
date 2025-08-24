@@ -3,6 +3,10 @@
   "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "textFontFamily": "JetBrainsMono Nerd Font Mono",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
-  "baseFontSize": 16,
-  "cssTheme": "Primary"
+  "baseFontSize": 14,
+  "cssTheme": "Primary",
+  "enabledCssSnippets": [
+    "mermaid",
+    "plantuml"
+  ]
 }
