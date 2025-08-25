@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ/4.01 Домашнее задание.md",
-                "mode": "preview",
+                "file": "Courses/DevOps Advanced/XX МАТЕРИАЛЫ/minikube + Docker.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4.01 Домашнее задание"
+              "title": "minikube + Docker"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.0086555480957
+    "width": 396.0086555480957
   },
   "right": {
     "id": "d1c7519638273a5a",
@@ -210,44 +210,44 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "953844c34c9074d6",
+  "active": "3026d5951f88de33",
   "lastOpenFiles": [
-    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/6 RAW МАТЕРИАЛЫ/AI-ML Model Cache.md",
-    "Materials/Обзор поддерживаемых диаграмм и схем.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ/4.05 Рекомендации.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 ХРАНЕНИЕ И УПРАВЛЕНИЕ СЕКРЕТАМИ/3.04 Как работает Vault.md",
     "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 ХРАНЕНИЕ И УПРАВЛЕНИЕ СЕКРЕТАМИ/3.02 Hashicorp Vault.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/0 ПЛАН/0.00 Тема 15 + 16.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/0 ПЛАН/0.01 План занятия.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/X ДОПОЛНИТЕЛЬНЫЕ МАТЕРИАЛЫ/Service Mesh (Istio) для mTLS.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.07 Accounting Audit Administration/1.07.1 Accounting (учёт сетевых ресурсов).md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.06 Векторы атак/Чек лист Threat Modeling.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.06 Векторы атак/Основные принципы.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/0 ПЛАН/0.02.5 Сколько известно векторов атак на 2025 год.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/0 ПЛАН/0.02 Вопросы.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/0 ПЛАН/0.02.3 В чем угроза вайб кодинга в рамках ИБ.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/0 ПЛАН/0.02.2 В чем опасность доступа по HTTP к статическим ресурсам.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/X ДОПОЛНИТЕЛЬНЫЕ МАТЕРИАЛЫ/OWASP.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/X МАТЕРИАЛЫ/Untitled.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/X ДОПОЛНИТЕЛЬНЫЕ МАТЕРИАЛЫ/MITRE.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.07 Accounting Audit Administration/1.07.2 Роль OpenTelemetry.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/0 ПЛАН/0.02.4 Что нужно учитывать про квантовые вычисления.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/0 ПЛАН/0.02.1 SQL-инъекция (SQLi) почему до сих пор распространена.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.07 Accounting Audit Administration",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 ХРАНЕНИЕ И УПРАВЛЕНИЕ СЕКРЕТАМИ/3.04 Как работает Vault.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 ХРАНЕНИЕ И УПРАВЛЕНИЕ СЕКРЕТАМИ/3.05 Основные принципы работы.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 ХРАНЕНИЕ И УПРАВЛЕНИЕ СЕКРЕТАМИ/3.06 Vault workflows.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 ХРАНЕНИЕ И УПРАВЛЕНИЕ СЕКРЕТАМИ/3.07 Проблема разрастания секретов.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 ХРАНЕНИЕ И УПРАВЛЕНИЕ СЕКРЕТАМИ/3.08 Vault Data Encryption.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 ХРАНЕНИЕ И УПРАВЛЕНИЕ СЕКРЕТАМИ/3.09 Vault Identity-Based Access.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 ХРАНЕНИЕ И УПРАВЛЕНИЕ СЕКРЕТАМИ/3.01 Hashicorp Stack.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 ХРАНЕНИЕ И УПРАВЛЕНИЕ СЕКРЕТАМИ/3.00 Сравнение Vaults.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ/4.03 Threat Modeling (моделирование угроз).md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ/4.02 Рекомендации по выполнению.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ/4.01 Домашнее задание.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ/Наброски реализации/3 Hashicorp Vault с Aspire.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ/Наброски реализации/2 Hashicorp Vault примеры.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ/Наброски реализации/1.3 Схема хранения и ротации секретов.md",
     "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ/4.04 Заключение.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/X ДОПОЛНИТЕЛЬНЫЕ МАТЕРИАЛЫ/ECDSA, EdDSA и RSA.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/X ДОПОЛНИТЕЛЬНЫЕ МАТЕРИАЛЫ/JWKS.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/X ДОПОЛНИТЕЛЬНЫЕ МАТЕРИАЛЫ/ECDSA.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 ХРАНЕНИЕ И УПРАВЛЕНИЕ СЕКРЕТАМИ/3.10 Сценарий Keycloak с Vault.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ/Наброски реализации/1.2 Схема процессов аутентификации и авторизации.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ/Наброски реализации/1.1 Схема архитектуры управления доступами с RBAC ABAC.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ/Наброски реализации/1 Схемы.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ/Наброски реализации",
+    "Courses/DevOps Advanced/XX МАТЕРИАЛЫ/minikube.md",
+    "Courses/DevOps Advanced/XX МАТЕРИАЛЫ/minikube + Docker.md",
+    "Courses/DevOps Advanced/XX МАТЕРИАЛЫ",
+    "Расписание.md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/0 ПЛАН/Task.md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/0 ПЛАН/Plan.md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/0 ПЛАН/Notes.md",
+    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/6 RAW МАТЕРИАЛЫ/AI-ML Model Cache.md",
+    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.07 Accounting Audit Administration",
     "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.08 Рефлексия",
-    "Courses/DevOps Advanced/19 Диагностика и отладка кластера и приложений в нем/0 ПЛАН",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/0 ПЛАН",
     "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ",
     "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.08 Аудит",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ/Наброски реализации",
     "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.05 Принципы работы TLS(SSL)",
     "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.03 Шифрование и хэширование",
     "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 ХРАНЕНИЕ И УПРАВЛЕНИЕ СЕКРЕТАМИ",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.02 Управление доступом и соблюдения политик",
     "Courses/System Design/~assets~/Redis-Car.png",
     "Courses/System Design/~assets~/Aspire-Keycloak.png",
     "~assets~/1755754053311.jpg",
