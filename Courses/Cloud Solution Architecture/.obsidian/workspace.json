@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "31906df225cb1be4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9e6dd11abaa37d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4a87f0cf4ea4c1c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "~assets~/pics/CNCF_Observability.png"
+              },
+              "icon": "lucide-image",
+              "title": "CNCF_Observability"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db89722bda2b57cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "feee2328425e9aea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26366211dceb9487",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "851e9a3c445fbdf0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "36046dfca21e9c70",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 535.5
+  },
+  "right": {
+    "id": "c32e9c363d6284a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "998cda181e203eeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e93e671f3fb70b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "~assets~/pics/CNCF_Observability.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for CNCF_Observability"
+            }
+          },
+          {
+            "id": "02c470065c22d695",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "~assets~/pics/CNCF_Observability.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from CNCF_Observability"
+            }
+          },
+          {
+            "id": "737592993573a2c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5dd90a009eb5b55b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "~assets~/pics/CNCF_Observability.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of CNCF_Observability"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d4a87f0cf4ea4c1c",
+  "lastOpenFiles": [
+    "~assets~/pics/Book_Observability_Engineering.jpg",
+    "~assets~/pics/Book_Distributed_Systems_Observability.png",
+    "~assets~/pics/Book_Crossing_the_Chasm.jpg",
+    "32 Cloud Layered In-depth Security Defense/02-05/04 AWS Cloud Infra Security Epics.md",
+    "32 Cloud Layered In-depth Security Defense/01 Функциональные составляющие/01 Функциональные составляющие Up.md",
+    "32 Cloud Layered In-depth Security Defense/01 Функциональные составляющие/01 Функциональные составляющие.md",
+    "32 Cloud Layered In-depth Security Defense/01 Функциональные составляющие/01 DeepSeek.md",
+    "32 Cloud Layered In-depth Security Defense/01 Функциональные составляющие/01 ChatGPT.md",
+    "32 Cloud Layered In-depth Security Defense/00 Введение/Qwen.md",
+    "32 Cloud Layered In-depth Security Defense/00 Введение/DeepSeek.md",
+    "32 Cloud Layered In-depth Security Defense/00 Введение/00 Plan.md",
+    "32 Cloud Layered In-depth Security Defense/00 Введение/__/Qwen.md",
+    "32 Cloud Layered In-depth Security Defense/00 Введение/__/DeepSeek.md"
+  ]
+}

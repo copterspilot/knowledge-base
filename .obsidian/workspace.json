@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/6 RAW МАТЕРИАЛЫ/AI-ML Model Cache.md",
+                "file": "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ/4.01 Домашнее задание.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AI-ML Model Cache"
+              "title": "4.01 Домашнее задание"
             }
           }
         ]
@@ -210,8 +210,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3026d5951f88de33",
+  "active": "953844c34c9074d6",
   "lastOpenFiles": [
+    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/6 RAW МАТЕРИАЛЫ/AI-ML Model Cache.md",
     "Materials/Обзор поддерживаемых диаграмм и схем.md",
     "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ/4.05 Рекомендации.md",
     "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 ХРАНЕНИЕ И УПРАВЛЕНИЕ СЕКРЕТАМИ/3.04 Как работает Vault.md",
@@ -238,7 +239,6 @@
     "Courses/System Design/16 Управление доступом и секретами (ДЗ)/X ДОПОЛНИТЕЛЬНЫЕ МАТЕРИАЛЫ/JWKS.md",
     "Courses/System Design/16 Управление доступом и секретами (ДЗ)/X ДОПОЛНИТЕЛЬНЫЕ МАТЕРИАЛЫ/ECDSA.md",
     "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 ХРАНЕНИЕ И УПРАВЛЕНИЕ СЕКРЕТАМИ/3.10 Сценарий Keycloak с Vault.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.01 Аутентификация, авторизация и аудит/1.01.1 Triple A (AuthX + Accounting).md",
     "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.08 Рефлексия",
     "Courses/DevOps Advanced/19 Диагностика и отладка кластера и приложений в нем/0 ПЛАН",
     "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ",
