@@ -58,7 +58,7 @@
 
 ---
 #### Foundational capabilities
-![](../../~assets~/pics/aws/FoundationalCapabilities.png)
+![](../../~assets~/pics/clouds/aws/FoundationalCapabilities.png)
 > 📌 **Источник:** [AWS CAF Foundational capabilities](https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/foundational-capabilities.html)
 
 ---

@@ -1,0 +1,1 @@
+![](../../../~assets~/pics/clouds/TOP10-PaaS.png)

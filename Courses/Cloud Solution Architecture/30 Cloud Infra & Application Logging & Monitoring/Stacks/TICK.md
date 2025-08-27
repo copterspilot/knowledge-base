@@ -3,7 +3,7 @@
 - [Monitoring and Metrics: TICK Stack](https://deepwiki.com/docker-library/docs/3.4-monitoring-and-metrics:-tick-stack)
 - [TICK Stack with Docker Compose Example](https://www.virtualizationhowto.com/2024/05/tick-stack-with-docker-compose-example/)
 
-![](../../~assets~/pics/What_is_TICK_Stack.png)
+![](../../~assets~/pics/monitoring/What_is_TICK_Stack.png)
 
 ---
 #### Стек TICK состоит из четырёх основных компонентов
@@ -90,7 +90,7 @@ Kapacitor is a real-time streaming and batch data processing engine that enables
 - Automating responses to network failures.
 
 ---
-![](../../~assets~/pics/TICK_Stack_Scheme.png)
+![](../../~assets~/pics/monitoring/TICK_Stack_Scheme.png)
 This seamless integration enables real-time monitoring and automation of event-driven tasks.
 
 ---

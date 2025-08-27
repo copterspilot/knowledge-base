@@ -4,16 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "14270cdd179c5c2f",
+        "id": "4fd12ac67d554518",
         "type": "tabs",
+        "dimension": 48.888888888888886,
         "children": [
           {
-            "id": "953844c34c9074d6",
+            "id": "5abe43e81505a6db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/DevOps Advanced/XX МАТЕРИАЛЫ/minikube + Docker.md",
+                "file": "Courses/Cloud Solution Architecture/36 CAF Business Requirements/09 ПРАКТИЧЕСКИЕ РЕКОМЕНДАЦИИ/36.09.03 Этапы миграции.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +29,26 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "minikube + Docker"
+              "title": "36.09.03 Этапы миграции"
+            }
+          }
+        ]
+      },
+      {
+        "id": "42aaeb9a65caddce",
+        "type": "tabs",
+        "dimension": 51.11111111111111,
+        "children": [
+          {
+            "id": "685f77288fa52392",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Courses/Cloud Solution Architecture/~assets~/pics/clouds/yc/YC_Services_Engineer.png"
+              },
+              "icon": "lucide-image",
+              "title": "YC_Services_Engineer"
             }
           }
         ]
@@ -63,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ИТ-затрат",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.0086555480957
+    "width": 935.0086555480957
   },
   "right": {
     "id": "d1c7519638273a5a",
@@ -212,51 +232,51 @@
   },
   "active": "3026d5951f88de33",
   "lastOpenFiles": [
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 ХРАНЕНИЕ И УПРАВЛЕНИЕ СЕКРЕТАМИ/3.02 Hashicorp Vault.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 ХРАНЕНИЕ И УПРАВЛЕНИЕ СЕКРЕТАМИ/3.04 Как работает Vault.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 ХРАНЕНИЕ И УПРАВЛЕНИЕ СЕКРЕТАМИ/3.05 Основные принципы работы.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 ХРАНЕНИЕ И УПРАВЛЕНИЕ СЕКРЕТАМИ/3.06 Vault workflows.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 ХРАНЕНИЕ И УПРАВЛЕНИЕ СЕКРЕТАМИ/3.07 Проблема разрастания секретов.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 ХРАНЕНИЕ И УПРАВЛЕНИЕ СЕКРЕТАМИ/3.08 Vault Data Encryption.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 ХРАНЕНИЕ И УПРАВЛЕНИЕ СЕКРЕТАМИ/3.09 Vault Identity-Based Access.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 ХРАНЕНИЕ И УПРАВЛЕНИЕ СЕКРЕТАМИ/3.01 Hashicorp Stack.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 ХРАНЕНИЕ И УПРАВЛЕНИЕ СЕКРЕТАМИ/3.00 Сравнение Vaults.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ/4.03 Threat Modeling (моделирование угроз).md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ/4.02 Рекомендации по выполнению.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ/4.01 Домашнее задание.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ/Наброски реализации/3 Hashicorp Vault с Aspire.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ/Наброски реализации/2 Hashicorp Vault примеры.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ/Наброски реализации/1.3 Схема хранения и ротации секретов.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ/4.04 Заключение.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ/Наброски реализации/1.2 Схема процессов аутентификации и авторизации.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ/Наброски реализации/1.1 Схема архитектуры управления доступами с RBAC ABAC.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ/Наброски реализации/1 Схемы.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ/Наброски реализации",
-    "Courses/DevOps Advanced/XX МАТЕРИАЛЫ/minikube.md",
-    "Courses/DevOps Advanced/XX МАТЕРИАЛЫ/minikube + Docker.md",
-    "Courses/DevOps Advanced/XX МАТЕРИАЛЫ",
-    "Расписание.md",
-    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/0 ПЛАН/Task.md",
-    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/0 ПЛАН/Plan.md",
-    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/0 ПЛАН/Notes.md",
-    "Courses/System Design/14 Кэширование и хранение данных (ДЗ)/6 RAW МАТЕРИАЛЫ/AI-ML Model Cache.md",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.07 Accounting Audit Administration",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.08 Рефлексия",
-    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/0 ПЛАН",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/4 ДОМАШНЕЕ ЗАДАНИЕ",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.08 Аудит",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.05 Принципы работы TLS(SSL)",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/1 ПОВТОРЕНИЕ/1.03 Шифрование и хэширование",
-    "Courses/System Design/16 Управление доступом и секретами (ДЗ)/3 ХРАНЕНИЕ И УПРАВЛЕНИЕ СЕКРЕТАМИ",
-    "Courses/System Design/~assets~/Redis-Car.png",
-    "Courses/System Design/~assets~/Aspire-Keycloak.png",
-    "~assets~/1755754053311.jpg",
-    "Courses/Cloud Solution Architecture/~assets~/pics/What_is_TICK_Stack.png",
-    "Courses/Cloud Solution Architecture/~assets~/pics/TICK_Stack_Scheme.png",
-    "Courses/Cloud Solution Architecture/~assets~/pics/OpenTelemetry_Collection.png",
-    "Courses/Cloud Solution Architecture/~assets~/pics/Infrastructure-Vs-Data-Vs-ML-Observability.jpg",
-    "Courses/Cloud Solution Architecture/~assets~/pics/ELS_Stack_Scheme.png",
-    "Courses/Cloud Solution Architecture/~assets~/pics/ELK_Stack.png",
-    "Courses/Cloud Solution Architecture/~assets~/pics/books/Crossing_the_Chasm.png"
+    "Courses/Cloud Solution Architecture/~assets~/pics/clouds/yc/YC_Logging_&_Monitoring_Services.png",
+    "Courses/Cloud Solution Architecture/~assets~/pics/monitoring/What_is_TICK_Stack.png",
+    "Courses/Cloud Solution Architecture/~assets~/pics/monitoring/OpenTelemetry_Collection.png",
+    "Courses/Cloud Solution Architecture/~assets~/pics/monitoring/Infrastructure-Vs-Data-Vs-ML-Observability.jpg",
+    "Courses/Cloud Solution Architecture/~assets~/pics/monitoring/ELK_Stack.png",
+    "Courses/Cloud Solution Architecture/~assets~/pics/monitoring/CNCF_Observability_Index.png",
+    "Courses/Cloud Solution Architecture/~assets~/pics/monitoring/CNCF_Observability.png",
+    "Courses/Cloud Solution Architecture/~assets~/pics/Untitled.md",
+    "Courses/Cloud Solution Architecture/~assets~/pics/monitoring",
+    "Courses/Cloud Solution Architecture/~assets~/pics/monitoring/TICK_Stack_Scheme.png",
+    "Courses/Cloud Solution Architecture/~assets~/pics/monitoring/ELS_Stack_Scheme.png",
+    "Courses/Cloud Solution Architecture/~assets~/pics/clouds/TOP10-PaaS.png",
+    "Courses/Cloud Solution Architecture/~assets~/pics/clouds/TOP-10-IaaS.png",
+    "Courses/Cloud Solution Architecture/~assets~/pics/clouds",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/04 CAF BUSINESS REQUIREMENTS/36.04.07 Итоги по CAF.md",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/04 CAF BUSINESS REQUIREMENTS/36.04.06 Пошаговая инструкция.md",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/09 ПРАКТИЧЕСКИЕ РЕКОМЕНДАЦИИ/36.09.05 Чек лист миграции.md",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/09 ПРАКТИЧЕСКИЕ РЕКОМЕНДАЦИИ/36.09.04 План миграции.md",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/09 ПРАКТИЧЕСКИЕ РЕКОМЕНДАЦИИ/36.09.03 Этапы миграции.md",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/07 ОЖИДАЕМЫЕ ВЫГОДЫ ОТ МИГРАЦИИ/36.07.03 Сравнение типов облаков.md",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/09 ПРАКТИЧЕСКИЕ РЕКОМЕНДАЦИИ/36.09.02 Методология управления облачной трансформацией.md",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/07 ОЖИДАЕМЫЕ ВЫГОДЫ ОТ МИГРАЦИИ/36.07.03 Сравнение типов облаков (вар.2).md",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/09 ПРАКТИЧЕСКИЕ РЕКОМЕНДАЦИИ/36.09.01 Практические рекомендации (акцент бизнес).md",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/07 ОЖИДАЕМЫЕ ВЫГОДЫ ОТ МИГРАЦИИ/36.07.02 Оценка выгоды по провайдерам.md",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/09 ПРАКТИЧЕСКИЕ РЕКОМЕНДАЦИИ/36.09.01 Практические рекомендации.md",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/10 ЗАКЛЮЧЕНИЕ/36.10.04 Ссылки.md",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/10 ЗАКЛЮЧЕНИЕ/Термины/Риск.md",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/10 ЗАКЛЮЧЕНИЕ/Термины/SWOT-анализ.md",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/08 УПРАВЛЕНИЕ РИСКАМИ/36.08.01 Управление рисками общее.md",
+    "Courses/Cloud Solution Architecture/36 Обзор Cloud Adoption Framework. Рассмотрение шага миграции «Бизнес требования» (Business Requirements)/09 ПРАКТИЧЕСКИЕ РЕКОМЕНДАЦИИ/Untitled.md",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/08 УПРАВЛЕНИЕ РИСКАМИ/36.08.02 Управление рисками Microsoft CAF.md",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/08 УПРАВЛЕНИЕ РИСКАМИ/36.08.03 Сокращение рисков.md",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/07 ОЖИДАЕМЫЕ ВЫГОДЫ ОТ МИГРАЦИИ/Статьи/Анализ рынка.md",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/07 ОЖИДАЕМЫЕ ВЫГОДЫ ОТ МИГРАЦИИ/Статьи/Стратегический обзор.md",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/07 ОЖИДАЕМЫЕ ВЫГОДЫ ОТ МИГРАЦИИ/36.07.01 Ожидаемые выгоды от миграции.md",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/07 ОЖИДАЕМЫЕ ВЫГОДЫ ОТ МИГРАЦИИ/36.07.01 Ожидаемые выгоды от миграции (кратко).md",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/04 CAF BUSINESS REQUIREMENTS/36.04.02 CAF Microsoft.md",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/04 CAF BUSINESS REQUIREMENTS/36.04.01 Business Requirements в CAF.md",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/07 ОЖИДАЕМЫЕ ВЫГОДЫ ОТ МИГРАЦИИ/Статьи",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/03 БИЗНЕС ТРЕБОВАНИЯ/Скриншоты",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/10 ЗАКЛЮЧЕНИЕ/36.10.03 Рекомендуемые книги",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/10 ЗАКЛЮЧЕНИЕ/Термины",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/09 ПРАКТИЧЕСКИЕ РЕКОМЕНДАЦИИ",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/06 СРАВНИТЕЛЬНЫЙ АНАЛИЗ ПОДХОДОВ",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/05 РОССИЙСКАЯ СПЕЦИФИКА",
+    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/04 CAF BUSINESS REQUIREMENTS"
   ]
 }
