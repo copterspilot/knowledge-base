@@ -4,17 +4,120 @@
     "type": "split",
     "children": [
       {
-        "id": "4fd12ac67d554518",
+        "id": "045413ea451f23ec",
         "type": "tabs",
-        "dimension": 48.888888888888886,
         "children": [
           {
-            "id": "5abe43e81505a6db",
+            "id": "a7be1689e10c6d94",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/XX NOTES/01 Сопоставление с 2019.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "01 Сопоставление с 2019"
+            }
+          },
+          {
+            "id": "05439ee2e0aa0531",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/XX NOTES/00 Сравнение с презентацией 2019.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "00 Сравнение с презентацией 2019"
+            }
+          },
+          {
+            "id": "b20920cdd41aa870",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/00 INTRO/00 Структура презентации.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "00 Структура презентации"
+            }
+          },
+          {
+            "id": "47561cb5f781421c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/__ PLAN/Постановка задачи.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Постановка задачи"
+            }
+          },
+          {
+            "id": "6eabd26c5d272b83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Cloud Solution Architecture/36 CAF Business Requirements/09 ПРАКТИЧЕСКИЕ РЕКОМЕНДАЦИИ/36.09.03 Этапы миграции.md",
+                "file": "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/XX NOTES/Анализ презентации.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -29,29 +132,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "36.09.03 Этапы миграции"
+              "title": "Анализ презентации"
             }
-          }
-        ]
-      },
-      {
-        "id": "42aaeb9a65caddce",
-        "type": "tabs",
-        "dimension": 51.11111111111111,
-        "children": [
+          },
           {
-            "id": "685f77288fa52392",
+            "id": "409c51e2a287e71a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Courses/Cloud Solution Architecture/~assets~/pics/clouds/yc/YC_Services_Engineer.png"
+                "file": "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/06 ADDITIONAL/35.x Cheatsheet kubernetes debugging.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "YC_Services_Engineer"
+              "icon": "lucide-file",
+              "title": "35.x Cheatsheet kubernetes debugging"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -83,7 +192,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ИТ-затрат",
+                "query": "inspektor-gadget",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 935.0086555480957
+    "width": 525.0086555480957
   },
   "right": {
     "id": "d1c7519638273a5a",
@@ -230,8 +339,45 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3026d5951f88de33",
+  "active": "409c51e2a287e71a",
   "lastOpenFiles": [
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/06 ADDITIONAL/35 Чек-лист 1 Базовый цикл диагностики инцидента.md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/06 ADDITIONAL/35 Cheatsheet Отладка в Kubernetes.md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/06 ADDITIONAL/36-35 Чек-листы.md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/05 SUMMARY/27.x Что умерло к 2025.md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/04 SAFETY/24 Shift-Left Сканирование.md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/04 SAFETY/23 Chaos Engineering для бедных и для богатых.md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/04 SAFETY/22 Тестирование манифестов и конфигурации.md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/00 INTRO/00 Структура презентации.md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/__ PLAN/Постановка задачи.md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/XX NOTES/Анализ презентации.md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/03 DEVEX/17 Инструменты Developer Experience (DevEx).md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/04 SAFETY/26 Аудит кластера и Compliance (kube-bench, Kubescape).md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/XX NOTES/XX Исправления.md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/XX NOTES/XX Вопросы и ответы.md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/XX NOTES/Plan.md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/XX NOTES/AIOps.md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/XX NOTES/04 Важные инструменты.md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/XX NOTES/03 Обновление.md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/XX NOTES/__ LINKS.md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/03 DEVEX/17.x Сравнение и выбор инструмента DevEx.md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/XX NOTES/00 Сравнение с презентацией 2019.md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/XX NOTES/01 Сопоставление с 2019.md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/XX NOTES/Термины/eBPF.md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/03 DEVEX/21.1 Обзор CNI-решений.md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/03 DEVEX/21 Сравнение `ksniff` vs Istio vs Hubble.md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/XX NOTES/Заметки/Cilium.md",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/XX NOTES/Термины/Инфраструктура",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/XX NOTES/Заметки",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/XX NOTES/Термины/Ошибки",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/XX NOTES/Термины",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/__ PLAN/__",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/XX NOTES",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/00 INTRO/__",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/00 INTRO",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/03 DEVEX",
+    "Courses/DevOps Advanced/20 Диагностика и отладка кластера и приложений в нем/04 SAFETY",
+    "Courses/Cloud Solution Architecture/~assets~/pics/clouds/yc/YC_Services_Engineer.png",
     "Courses/Cloud Solution Architecture/~assets~/pics/clouds/yc/YC_Logging_&_Monitoring_Services.png",
     "Courses/Cloud Solution Architecture/~assets~/pics/monitoring/What_is_TICK_Stack.png",
     "Courses/Cloud Solution Architecture/~assets~/pics/monitoring/OpenTelemetry_Collection.png",
@@ -239,44 +385,7 @@
     "Courses/Cloud Solution Architecture/~assets~/pics/monitoring/ELK_Stack.png",
     "Courses/Cloud Solution Architecture/~assets~/pics/monitoring/CNCF_Observability_Index.png",
     "Courses/Cloud Solution Architecture/~assets~/pics/monitoring/CNCF_Observability.png",
-    "Courses/Cloud Solution Architecture/~assets~/pics/Untitled.md",
-    "Courses/Cloud Solution Architecture/~assets~/pics/monitoring",
     "Courses/Cloud Solution Architecture/~assets~/pics/monitoring/TICK_Stack_Scheme.png",
-    "Courses/Cloud Solution Architecture/~assets~/pics/monitoring/ELS_Stack_Scheme.png",
-    "Courses/Cloud Solution Architecture/~assets~/pics/clouds/TOP10-PaaS.png",
-    "Courses/Cloud Solution Architecture/~assets~/pics/clouds/TOP-10-IaaS.png",
-    "Courses/Cloud Solution Architecture/~assets~/pics/clouds",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/04 CAF BUSINESS REQUIREMENTS/36.04.07 Итоги по CAF.md",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/04 CAF BUSINESS REQUIREMENTS/36.04.06 Пошаговая инструкция.md",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/09 ПРАКТИЧЕСКИЕ РЕКОМЕНДАЦИИ/36.09.05 Чек лист миграции.md",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/09 ПРАКТИЧЕСКИЕ РЕКОМЕНДАЦИИ/36.09.04 План миграции.md",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/09 ПРАКТИЧЕСКИЕ РЕКОМЕНДАЦИИ/36.09.03 Этапы миграции.md",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/07 ОЖИДАЕМЫЕ ВЫГОДЫ ОТ МИГРАЦИИ/36.07.03 Сравнение типов облаков.md",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/09 ПРАКТИЧЕСКИЕ РЕКОМЕНДАЦИИ/36.09.02 Методология управления облачной трансформацией.md",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/07 ОЖИДАЕМЫЕ ВЫГОДЫ ОТ МИГРАЦИИ/36.07.03 Сравнение типов облаков (вар.2).md",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/09 ПРАКТИЧЕСКИЕ РЕКОМЕНДАЦИИ/36.09.01 Практические рекомендации (акцент бизнес).md",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/07 ОЖИДАЕМЫЕ ВЫГОДЫ ОТ МИГРАЦИИ/36.07.02 Оценка выгоды по провайдерам.md",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/09 ПРАКТИЧЕСКИЕ РЕКОМЕНДАЦИИ/36.09.01 Практические рекомендации.md",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/10 ЗАКЛЮЧЕНИЕ/36.10.04 Ссылки.md",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/10 ЗАКЛЮЧЕНИЕ/Термины/Риск.md",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/10 ЗАКЛЮЧЕНИЕ/Термины/SWOT-анализ.md",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/08 УПРАВЛЕНИЕ РИСКАМИ/36.08.01 Управление рисками общее.md",
-    "Courses/Cloud Solution Architecture/36 Обзор Cloud Adoption Framework. Рассмотрение шага миграции «Бизнес требования» (Business Requirements)/09 ПРАКТИЧЕСКИЕ РЕКОМЕНДАЦИИ/Untitled.md",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/08 УПРАВЛЕНИЕ РИСКАМИ/36.08.02 Управление рисками Microsoft CAF.md",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/08 УПРАВЛЕНИЕ РИСКАМИ/36.08.03 Сокращение рисков.md",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/07 ОЖИДАЕМЫЕ ВЫГОДЫ ОТ МИГРАЦИИ/Статьи/Анализ рынка.md",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/07 ОЖИДАЕМЫЕ ВЫГОДЫ ОТ МИГРАЦИИ/Статьи/Стратегический обзор.md",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/07 ОЖИДАЕМЫЕ ВЫГОДЫ ОТ МИГРАЦИИ/36.07.01 Ожидаемые выгоды от миграции.md",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/07 ОЖИДАЕМЫЕ ВЫГОДЫ ОТ МИГРАЦИИ/36.07.01 Ожидаемые выгоды от миграции (кратко).md",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/04 CAF BUSINESS REQUIREMENTS/36.04.02 CAF Microsoft.md",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/04 CAF BUSINESS REQUIREMENTS/36.04.01 Business Requirements в CAF.md",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/07 ОЖИДАЕМЫЕ ВЫГОДЫ ОТ МИГРАЦИИ/Статьи",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/03 БИЗНЕС ТРЕБОВАНИЯ/Скриншоты",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/10 ЗАКЛЮЧЕНИЕ/36.10.03 Рекомендуемые книги",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/10 ЗАКЛЮЧЕНИЕ/Термины",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/09 ПРАКТИЧЕСКИЕ РЕКОМЕНДАЦИИ",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/06 СРАВНИТЕЛЬНЫЙ АНАЛИЗ ПОДХОДОВ",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/05 РОССИЙСКАЯ СПЕЦИФИКА",
-    "Courses/Cloud Solution Architecture/36 CAF Business Requirements/04 CAF BUSINESS REQUIREMENTS"
+    "Courses/Cloud Solution Architecture/~assets~/pics/monitoring/ELS_Stack_Scheme.png"
   ]
 }
